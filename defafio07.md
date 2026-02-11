@@ -1,4 +1,4 @@
-## Questão 07 - Uso do Adapter como padrão principal para padronização de integrações com serviços de terceiros
+## Questão 7 - Uso do Adapter como padrão principal para padronização de integrações com serviços de terceiros
 
 Para padronizar integrações com serviços de terceiros e tornar múltiplas interfaces de diferentes fornecedores uniformes, como serviços de envio de e-mails ou SMS, o padrão mais adequado é o Adapter Pattern, podendo ser complementado pelos padrões Strategy e Factory, conforme a complexidade da solução.
 
