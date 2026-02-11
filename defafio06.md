@@ -1,4 +1,4 @@
-# Questão 6 — Code Review
+# Questão 6 — Code Review Bot
 
 ## 1. bot.py
 
