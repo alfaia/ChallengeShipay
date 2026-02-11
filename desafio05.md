@@ -1,0 +1,1 @@
+## Foi desenvolvido o código do desafio 1 como descreve no requisito.
