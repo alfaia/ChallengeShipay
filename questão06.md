@@ -315,11 +315,3 @@ Opcionalmente, pode-se adotar uma padronização de nomenclatura para facilitar 
 [scheduler]
 interval_in_minutes = 60
 ```
-
----
-
-## Considerações finais
-
-O robô atende bem ao objetivo de exportação, mas apresenta oportunidades de melhoria principalmente em **segurança**, **observabilidade**, **robustez** e **manutenibilidade**.
-
-Com ajustes pontuais, o código fica mais consistente e preparado para uso contínuo em ambientes produtivos.
